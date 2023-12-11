@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  width: 100%;
+}
+.userList{
+  color: black;
+  font-weight: 700;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 20px;
+}
+
+.userList div{
+  background-color: antiquewhite;
+  padding: 10px 0;
+  margin: 20px 0;
+
+  border-radius: 20px;
+}
